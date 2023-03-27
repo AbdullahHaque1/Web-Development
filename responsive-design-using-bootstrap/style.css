@@ -1,0 +1,65 @@
+* {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Oxygen', 'Alumni Sans Collegiate One', sans-serif;
+}
+
+#header-nav {
+    background-color: white;
+    border-radius: 0;
+    border: 0;
+    border: 1px solid black;
+}
+
+h2.menu {
+    margin: 10px;
+    padding: 2.5vw;
+    font-size: 2.5rem;
+}
+
+p {
+    font-size: 1.5rem;
+    line-height: 2em;
+    padding: 10px;
+    text-align: justify;
+}
+
+p>a {
+    text-decoration: none;
+    float: right;
+    color: white;
+}
+
+.container-fluid {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: #666161;
+}
+
+.navbar {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+
+.nav-link {
+    border-bottom: 0.5px solid black;
+    border-top: 0.5px solid black;
+}
+
+.row {
+    margin-left: 2.5%;
+    margin-right:2.5%;
+}
+.container{
+    background-color: #827979;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.text-head{
+    padding-top: 10px;
+    font-size: 2rem;
+}
