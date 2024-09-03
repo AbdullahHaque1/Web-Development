@@ -1,1 +1,1 @@
-# web-development
+# MERN-Personal-Chat-App
